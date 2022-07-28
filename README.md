@@ -32,6 +32,5 @@ Intelligent alarm:
             A weather notifications for the day will be prompted after the morning alarm for users
             to plan for their daily activities. 
     
-Medicine lookup
-
-    RIVA comes with a drug lookup module. This module provides users with a tool to look up the drug description of any drug based on its tagged SSN number. The 	drug data comes from the MDA official website.
+### Medicine lookup:
+RIVA comes with a drug lookup module. This module provides users with a tool to look up the drug description of any drug based on its tagged SSN number. The drug data comes from the MDA official website.
