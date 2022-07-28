@@ -1,6 +1,5 @@
-RIVA
-Description:
-
+## RIVA
+### Description:
 Riva is an iOS mobile app with apple watch component.
 
 Riva is designed for non-morning person wanted to shift his daily schedule, especially 
@@ -8,7 +7,8 @@ for users who do not have set or adjusted to work/school schedule after vacation
 will help users to get the best sleep possible based on the amount of sleep time available.
 
 “RIVA”, make tomorrow morning a little bit better.
-Prerequisite:
+
+### Prerequisite:
 
 Riva requires iOS 8.0 or above, watch OS 4.0 or above.
 Major features:
